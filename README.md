@@ -1,4 +1,4 @@
-# ZigStar Home Assistant add-on repository
+# All In One Sensor Home Assistant add-on repository
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -6,25 +6,10 @@
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-Addon-ons for Home Assistant that allow you to easily flash new firmware on your ZigStar Coordinators
+Addon-ons for Home Assistant that allow you to easily flash new firmware on your All In One Sensor Coordinators
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmercenaruss%2Fzigstar_addons)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FXorfee%2FAiOZigbee)
 
-## Add-ons
-
-This repository contains the following add-ons:
-
-- **[ZigStar TI CC2652 FW Flasher](https://github.com/mercenaruss/zigstar_addons/tree/main/zigstar-cc2652-flasher/README.md)**
-
-  Flash FW to ZigStar TI CC2652 based Coordinators
-
-- **[ZigStar TI CC2652P7 FW Flasher](https://github.com/mercenaruss/zigstar_addons/tree/main/zigstar-cc2652p7-flasher/README.md)**
-
-  Flash FW to ZigStar TI CC2652P7 based Coordinators (UZG-01 v0.2 and up)
-
-- **[ZigStar Silicon Labs FW Flasher](https://github.com/mercenaruss/zigstar_addons/tree/main/zigstar-silabs-flasher/README.md)**
-
-  Flash FW to ZigStar SiliconLabs EFR32 based Coordinators
 
 ## Installation
 
@@ -34,7 +19,7 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/mercenaruss/zigstar_addons
+https://github.com/mercenaruss/AiOZigbee
 ```
 
 ## Contribute
