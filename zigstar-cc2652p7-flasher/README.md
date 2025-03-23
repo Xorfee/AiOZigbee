@@ -1,8 +1,8 @@
-# ZigStar: TI CC2652P7 Flasher Add-on
+# All-In-One Sensor Flasher Add-on
 
 TI CC2652**P7** Flasher add-on to flash Texas Instruments CC1352/2652**P7** based radios.
 
-Especially designed and released for **UZG-01 - v0.2** and up what is using **CC2652P7**
+Especially designed and released for All-In-One Sensor and up what is using **CC2652P7**
 
 In order to not flash incorrect firmwares.
 
