@@ -19,7 +19,7 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/mercenaruss/AiOZigbee
+https://github.com/Xorfee/AiOZigbee
 ```
 
 ## Contribute
