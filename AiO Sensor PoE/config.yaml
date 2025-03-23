@@ -3,7 +3,7 @@ version: 1.0
 slug: AiO Flasher
 name: AiO CC2652P7 ZIGBEE Flasher
 description: Addon to flash the Zigbee Driver on the AiO Sensor
-url: https://github.com/Xorfee/AddonZigbee
+url: https://github.com/Xorfee/AiOZigbee
 arch:
   - aarch64
   - amd64
