@@ -53,9 +53,7 @@
       "type": "pickString",
       "description": "Name of addon (to add your addon to this list, please edit .vscode/tasks.json)",
       "options": [
-        "zigstar-cc2652-flasher",
-        "zigstar-cc2652p7-flasher",
-        "zigstar-silabs-flasher",
+        "AiO Sensor PoE"
       ]
     }
   ]
